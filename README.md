@@ -20,11 +20,17 @@ Discord https://discord.gg/259bvYJdvK
  
 ## Whosdiary DAO Token =  WD Token
 Whodiary 治理代幣，將收益分配給用貢獻的用戶
+可以透過質押，獲得 Whodiary 收益
 
  <br />
 
 ## Whosdiary Coin Token = WC Token
 Whodiary 內互動及使用的代幣
+
+ <br />
+
+## Whosdiary Point Token =  WP Token
+Whodiary 聊天等級操作等積分，可以兌換一些額外加值服務
 
  <br />
 
@@ -37,7 +43,7 @@ Whodiary 內互動及使用的代幣
 
  <br />
 
-## Whosdiary Push App
+## Whosdiary PaperNote App
 用來接收 crypto 鏈上的消息，亦可以接收來自聊天的推播訊息
 
  <br />
