@@ -11,7 +11,7 @@
 
 歡迎過去的及有興趣用戶，一起加入重建 Whosdiary 的行列
 
-https://discord.gg/259bvYJdvK
+Discord https://discord.gg/259bvYJdvK
 
  <br />
 
